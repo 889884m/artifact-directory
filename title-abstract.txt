@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Locating Sound with Machine Learning
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+In this domain, we learned about the methods around localizing sound waves using special devices called microphone arrays. Broadly speaking, this device can figure what a sound is and where it came from. With the growing ubiquity of microphone devices, we find this to be a potentially useful use-case. The base case scenario method involves what is called "affine mapping" which is essentially another form of linear transformation. In this project, we decided to examine how machine learning techniques such as Neural Networks, Support Vector Machines, and Random Forest may benefit (or not benefit) in this field.
